@@ -1,0 +1,64 @@
+{
+  "cars": [
+    {
+      "brand": "Honda",
+      "model": "Fit",
+      "cost": "10000$",
+      "color": "blue"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "cost": "25000$",
+      "color": "white"
+    },
+    {
+      "brand": "BMW",
+      "model": "X5",
+      "cost": "12000$",
+      "color": "black"
+    },
+    {
+      "brand": "Lexus",
+      "model": "LX570",
+      "cost": "90000$",
+      "color": "red"
+    },
+    {
+      "brand": "Mercedes",
+      "model": "S-class",
+      "cost": "200000$",
+      "color": "brown"
+    },
+    {
+      "brand": "Subaru",
+      "model": "Impreza WRX STI 8",
+      "cost": "12000$",
+      "color": "black"
+    },
+    {
+      "brand": "BMW",
+      "model": "M3",
+      "cost": "22000$",
+      "color": "red"
+    },
+    {
+      "brand": "Mercedes",
+      "model": "AMG",
+      "cost": "32000$",
+      "color": "black"
+    },
+    {
+      "brand": "Ford",
+      "model": "Shelby Mustang",
+      "cost": "19000$",
+      "color": "black"
+    },
+    {
+      "brand": "Batman",
+      "model": "Batmobile2000",
+      "cost": "9999999$",
+      "color": "matte"
+    }
+  ]
+}
